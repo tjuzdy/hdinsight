@@ -7,7 +7,7 @@ public class TopicCreatePto {
 
     private String name;
 
-    private int numPatitions;
+    private int numPartitions;
 
     private short replicationFactor;
 
