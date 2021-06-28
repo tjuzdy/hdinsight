@@ -1,2 +1,2 @@
 # hdinsight
-Based Spring bigdata component sample code, including kafka hbase elasticsearch flink, etc.
+spring-based bigdata component sample code, including kafka hbase elasticsearch flink, etc.
